@@ -42,3 +42,5 @@ replay_pid*
 *.iws
 *.ipr
 *.iml
+
+/delivery/src/main/resources/application-private.yml

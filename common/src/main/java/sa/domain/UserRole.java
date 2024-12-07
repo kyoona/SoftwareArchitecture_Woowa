@@ -2,5 +2,5 @@ package sa.domain;
 
 public enum UserRole {
 
-    CUSTOMER, STORE, MANAGER
+    CUSTOMER, STORE, DELIVERYMAN, MANAGER
 }
